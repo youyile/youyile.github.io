@@ -37,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### 兴趣爱好
-[Image](src)
+[Image](src C:\Users\游兴\Pictures\北医\微信图片_20200826191622.jpg)
