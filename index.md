@@ -9,6 +9,9 @@
 
 # 幸会。
 
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans-CN">
 <section id="intro">
 	<header>
 		<h1 id="heading">你好，<br />我是翁天信，<br />一个自学者。</h1>
