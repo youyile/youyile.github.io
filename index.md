@@ -46,8 +46,6 @@ _想了解更多关于我 👇_
 #    👇            
     
 #  👇
-  
-#👇	 
 
 ### 成长经历
 
@@ -286,6 +284,17 @@ _想了解更多关于我 👇_
 
 ### 未来展望
 拥一二挚友，一生平安喜乐。
+
+<section id="content">
+	<p id="text-become-autodidact">作为自学者，我彻底脱离了常规教育体系。</p>
+	<p id="text-learn-from">我没有在传统学校里上过学，<br />只从大自然和互联网获取自己感兴趣的知识。</p>
+
+	<p id="traveling">旅行是从大自然学习的最佳方式。<br />走遍世界，对我而言不仅仅是个梦想。</p>
+
+	<div id="globe-container">
+		<canvas id="globe"></canvas>
+	</div>
+</section>
 
 #   
 #  
