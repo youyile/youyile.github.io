@@ -18,9 +18,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 基本信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<link rel="apple-touch-icon" href="/pku_logo_red.png" />
+<link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="author" content="http://www.fractal-technology.com">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no,email=no,adress=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-Syntax highlighted code block
+<meta name="keywords" content="北京大学" />
+<meta name="description" content="北京大学" />
+
+
+</head>
+
 
 # Header 1
 ## Header 2
@@ -43,11 +58,28 @@ Syntax highlighted code block
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youyile/youyile.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 兴趣爱好
+<section id="programming">
 
 	<div id="nodes" onscroll="node.didScroll()">
 		<img id="node-scroll-button" src="images/arrow.svg" onclick="node.increment()" />
 		<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="800">
-		
+			<g stroke="#979797" fill="none">
+				<path d="M212 453l-81-88m81 88l47-88-77-55" />
+				<path d="M272 310l-13 55m-47 88l85 83-25 83m25-83l87 63m73-146l-160 83m160-83l91 103 106 58m-106-58l-57 83" />
+				<path d="M548 556l182-103M548 556l-9 161m9-161l933 183 65-195m-998 12l46 112M297 536l58 124m-58-124l-3 233m3-233l-217-2m217 2L64 599l-42 38" />
+				<path d="M297 536L50 683m247-147l40 181" />
+				<path d="M297 536l151 234M297 536L37 759m260-223L175 249" />
+				<path d="M175 249l84 116m-129 0l45-116m283.5 204L376 362m-.5-2l42-51M374 361l-12-92m96.5 184L621 367l17-61" />
+				<path d="M457 453l85-144" />
+				<path d="M457 453l79-198m194 198l62-79-15-120m16 120l107-68m-44-110l-63 177m0 0l-53 200m321-120l47-94" />
+				<path d="M1061 453l-48 103M730 453l283 103m48-103l98 115m-98-115v156" />
+				<path d="M1061 453l66 302m-66-302L925 602l-72-68-60-160" />
+				<path d="M1061 453L746 692 297 536m764-83l-29 226m29-226l-70 317m70-317l18-151m151 151l89 113 52 63-76 60-108-62-28-59zm330 0l-14 91-78 47m78-47l48 53m-48-53l-19 114" />
+				<path d="M1546 544l86 148m-72-239l66-111 20-91m-86 202l-66-89 29-79m-29 79l-80-122m-353 211L900 676m-154 16l103 55m-226 0l85 43m-85-43h226M297 536L193 710" />
+				<path d="M297 536l-95 121m1557-204l-34 87 99 38.5z" />
+				<path d="M1824 579l-54 71-11-197" />
+				<path d="M1061 453l709 197M297 536l326 211" />
+			</g>
 			<g fill="#404040">
 				<text><tspan x="226" y="459">网站前端</tspan></text>
 				<circle cx="212" cy="453" r="4" />
@@ -222,12 +254,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 				<text><tspan x="351" y="723">TypeScript</tspan></text>
 				<circle cx="337" cy="717" r="4" />
 				<text><tspan x="388" y="367">容器化</tspan></text>
-				<circle cx="374" cy="361" r="4" />	
-				<text><tspan x="388" y="367">容器化</tspan></text>
 				<circle cx="374" cy="361" r="4" />
 			</g>
 		</svg>
 	</div>
-
+</section>
 ### 未来展望
 [Image](src C:\Users\游兴\Pictures\北医\微信图片_20200826191622.jpg)
