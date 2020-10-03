@@ -19,22 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 基本信息
 
 <link rel="apple-touch-icon" href="/pku_logo_red.png" />
-<link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="renderer" content="webkit">
-<meta name="author" content="http://www.fractal-technology.com">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="format-detection" content="telephone=no,email=no,adress=no">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-<meta name="keywords" content="北京大学" />
-<meta name="description" content="北京大学" />
-
-
-</head>
 
 
 # Header 1
