@@ -20,7 +20,7 @@
 		<canvas id="globe"></canvas>
 	</div>
 </section>
-
+</html>
 
 <div id="globe-container">
 		<canvas id="globe"></canvas>
