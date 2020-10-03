@@ -7,11 +7,11 @@
 #  
 #  
 # 幸会。
-#
-#
-#
-#
-#
+#  
+#  
+#  
+#  
+#  
 ## **Welcome to 游以勒的个人主页**
 
 
@@ -110,9 +110,9 @@ _想了解更多关于我👇_
 				<circle cx="793" cy="373" r="4" />
 				<text><tspan x="754" y="579"> </tspan></text>
 				<circle cx="740" cy="573" r="4" />
-				<text><tspan x="867" y="540">榴莲</tspan></text>
+				<text><tspan x="867" y="540"> </tspan></text>
 				<circle cx="853" cy="534" r="4" />
-				<text><tspan x="1508" y="370">大白兔</tspan></text>
+				<text><tspan x="1508" y="370">柿子</tspan></text>
 				<circle cx="1494" cy="364" r="4" />
 				<text><tspan x="791" y="260">蛋彩画</tspan></text>
 				<circle cx="777" cy="254" r="4" />
@@ -168,7 +168,7 @@ _想了解更多关于我👇_
 				<circle cx="80" cy="534" r="4" />
 				<text><tspan x="1385" y="635">Arduino</tspan></text>
 				<circle cx="1371" cy="629" r="4" />
-				<text><tspan x="1201" y="635">树莓派</tspan></text>
+				<text><tspan x="1201" y="635"> </tspan></text>
 				<circle cx="1187" cy="629" r="4" />
 				<text><tspan x="1309" y="698">HomeAssistant</tspan></text>
 				<circle cx="1295" cy="692" r="4" />
@@ -244,12 +244,12 @@ _想了解更多关于我👇_
 </section>
 
 ### 未来展望
-拥一二挚友，平安喜乐。
+拥一二挚友，一生平安喜乐。
 
 # _That's all._
-#
-#
-#
-#
-#
+#  
+#  
+#  
+#  
+#  
 # 再会。
