@@ -30,6 +30,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 成长经历
 
 2002年4月········呱呱坠地
+ 
 2020年9月········圆梦北大
 
 ### 兴趣爱好
