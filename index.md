@@ -9,7 +9,6 @@
 <div id="globe-container">
 		<canvas id="globe"></canvas>
 	</div>
-</section>
 
 ## **Welcome to 游以勒的个人主页**
 
