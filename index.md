@@ -7,8 +7,11 @@
 #  
 #  
 # 幸会。
-
-
+#
+#
+#
+#
+#
 ## **Welcome to 游以勒的个人主页**
 
 
@@ -18,11 +21,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 基本信息
 
-`🧑性别：  男                                              🌞出生年月： 2002年4月`
+`🧑性别：  男`
  
-`🎓学历：  大学本科                                         🏚籍贯：    福建省宁德市`
+`🌞出生年月： 2002年4月`
 
-[Link](https://www.pku.edu.cn/pku_logo_red.png)
+
+`🏚籍贯：    福建省宁德市`
+
+`🎓学历：  大学本科`
+
 
 
 想了解更多关于我👇
