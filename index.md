@@ -32,7 +32,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-想了解更多关于我👇
+_想了解更多关于我👇_
 
 ### 成长经历
 
@@ -242,7 +242,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 		</svg>
 	</div>
 </section>
+
 ### 未来展望
 拥一二挚友，平安喜乐。
 
+# _That's all._
+#
+#
+#
+#
+#
 # 再会。
