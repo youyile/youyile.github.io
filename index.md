@@ -18,8 +18,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 基本信息
 
-<link rel="apple-touch-icon" href="/pku_logo_red.png" />
+`🧑性别：  男          🌞出生年月： 2002年4月`
+`🎓学历：  大学本科     🏚籍贯：    福建省宁德市`
 
+[Link](url https://www.pku.edu.cn/pku_logo_red.png)
 
 
 # Header 1
@@ -45,8 +47,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### 兴趣爱好
 <section id="programming">
 
-	<div id="nodes" onscroll="node.didScroll()">
-	
+        <div id="nodes" onscroll="node.didScroll()">
+		<img id="node-scroll-button" src="images/arrow.svg" onclick="node.increment()" />
+		<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="800">
 	<g stroke="#979797" fill="none">
 				<path d="M212 453l-81-88m81 88l47-88-77-55" />
 				<path d="M272 310l-13 55m-47 88l85 83-25 83m25-83l87 63m73-146l-160 83m160-83l91 103 106 58m-106-58l-57 83" />
