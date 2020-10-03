@@ -24,25 +24,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Link](url https://www.pku.edu.cn/pku_logo_red.png)
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
 想了解更多关于我👇
 
 ### 成长经历
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youyile/youyile.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2002年4月········呱呱坠地
+2020年9月········圆梦北大
 
 ### 兴趣爱好
 <section id="programming">
@@ -247,4 +234,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 	</div>
 </section>
 ### 未来展望
-[Image](src C:\Users\游兴\Pictures\北医\微信图片_20200826191622.jpg)
+拥一二挚友，平安喜乐。
+
+# 再会。
