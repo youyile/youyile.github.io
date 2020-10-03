@@ -1,5 +1,6 @@
 ## Welcome to 游以勒的个人主页
 
+<html lang="zh-cmn-Hans-CN">
 <head>
 <title>翁天信 · Dandy Weng 的个人网站主页</title>
 <meta charset="utf-8" />
