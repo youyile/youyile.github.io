@@ -241,6 +241,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 				<text><tspan x="351" y="723">TypeScript</tspan></text>
 				<circle cx="337" cy="717" r="4" />
 				<text><tspan x="388" y="367">容器化</tspan></text>
+				<circle cx="374" cy="361" r="4" />	
+				<text><tspan x="388" y="367">容器化</tspan></text>
 				<circle cx="374" cy="361" r="4" />
 			</g>
 		</svg>
@@ -427,7 +429,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 				<circle cx="355" cy="660" r="4" />
 				<text><tspan x="351" y="723">TypeScript</tspan></text>
 				<circle cx="337" cy="717" r="4" />
-
+				<text><tspan x="388" y="367">容器化</tspan></text>
+				<circle cx="374" cy="361" r="4" />
 			</g>
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
