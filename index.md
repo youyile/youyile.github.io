@@ -37,7 +37,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 `🎓学历：     大学本科`
  
- <img src"微信图片_20200826191622.jpg">
+ <img src="微信图片_20200826191622.jpg">
  
 _想了解更多关于我 👇_
 
