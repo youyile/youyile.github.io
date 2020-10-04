@@ -22,12 +22,13 @@
 #  
 ## **Welcome to 游以勒的个人主页**
 
-
 You can use the [editor on GitHub](https://github.com/youyile/youyile.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 基本信息
+
+ <img src="微信图片_20200826191622.jpg">
 
 `🧑性别：     男`
  
@@ -36,8 +37,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 `🏚籍贯：     福建省宁德市`
 
 `🎓学历：     大学本科`
- 
- <img src="微信图片_20200826191622.jpg">
  
 _想了解更多关于我 👇_
 
