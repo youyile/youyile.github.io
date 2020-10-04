@@ -28,8 +28,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 基本信息
 
- <img src="微信图片_20200826191622.jpg">
-
 `🧑性别：     男`
  
 `🌞出生年月： 2002年4月`
@@ -37,6 +35,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 `🏚籍贯：     福建省宁德市`
 
 `🎓学历：     大学本科`
+ 
+  <img src="微信图片_20200826191622.jpg">
  
 _想了解更多关于我 👇_
 
