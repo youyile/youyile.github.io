@@ -1,10 +1,3 @@
-<script type="text/javascript">
-    var mymessage=confirm("你喜欢JavaScript吗?");
-    if(mymessage==true)
-    {   document.write("很好,加油!");   }
-    else
-    {  document.write("JS功能强大，要学习噢!");   }
-</script>
 
 # _你好，_
 # _我是游以勒，_
